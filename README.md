@@ -14,7 +14,7 @@ First, get symbol-currency mapping from the site.
 ```bash
 python get_currency_map.py
 ```
-Check if the mapping is correct and edit the file if necessary.
+Check if the mapping in `currencies.csv` is correct and edit the file if necessary.
 
 Then, run the crawler to get the result.
 
